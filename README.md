@@ -1,2 +1,4 @@
 # arduino-theme
-My Arduino IDE theme
+
+
+Just replace the `theme` folder in `/arduino/lib/` (or `/arduino/Java/lib/`)
